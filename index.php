@@ -32,7 +32,7 @@
         <input id="weight" type="number" name="weight" min="1" max="200" step="0.01" required>
         <span>kg<span><br><br> -->
     <div class="input-group mb-3">
-        <span class="input-group-text" id="basic-addon1">poids</span>
+        <span class="input-group-text" id="basic-addon1">taille</span>
         <input id="height" type="number" name="height" min="1" max="3" step="0.01" required class="form-control" placeholder="mètres">
     </div>
 
